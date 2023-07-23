@@ -1,0 +1,91 @@
+h1 {
+    font-size: 63px;
+    color: #303030;
+    padding: 15px;
+    color: white;
+    text-align: center;
+}
+
+ h2 {
+    font-size: 54px;
+    color: #303030;
+    font-weight: 600;
+}
+
+.carousel-caption h5{
+    font-size: 50px;
+    color: white;
+    text-shadow: 2px 2px 2px black ;
+}
+
+#show{
+    color:black;
+    text-align: center;
+    background-color: red;
+    font-size: 30px ;
+    font-size: Tahoma;
+    padding: 15px;
+   
+}
+
+.img-thumbnail{
+    border-radius: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    padding: 10px;
+    
+}
+
+
+.container-fluid{
+    background-color: red;
+    text-align: left;
+    font-family: 'Gill Sans';
+    
+}
+
+.collapse navbar-collapse{
+    text-align: center;
+    padding: 150px;
+}
+
+#navbarNav{
+    font-size: 25px;
+    font-family: 'Gill Sans';
+}
+
+#nosso-time{
+    font-size: 30px;
+    font-family: 'Gill Sans';
+    padding: 5px;
+}
+
+#produtos{
+    font-size: 30px;
+    font-family: 'Gill Sans';
+    padding: 5px;
+}
+
+.carousel-item img {
+    max-height: 300%;
+    padding: 10px;
+    object-fit: cover;
+    width: 100%;
+    height: 300px;
+
+  }
+
+  .carousel-wrapper {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: Georgia;
+    width: 100%;
+    height: 300px;
+    
+  }
+
+  body{
+    background-color: red;
+  }
